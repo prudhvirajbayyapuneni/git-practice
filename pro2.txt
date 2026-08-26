@@ -1,2 +1,3 @@
 hello git second file created for reset command
-making my second version!
+making my second version !
+making third version !
